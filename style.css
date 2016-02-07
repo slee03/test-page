@@ -1,0 +1,14 @@
+<style>
+body {background-color: white;}
+h1   {color: black; text-align: center; font-family: "Arial"}
+h2	 {color:black; text-align: center; font-family: "Arial"; font-size: 110%; font-style: normal; font-weight: normal;} 	
+h3	 {color:black; text-align: center; font-family: "Arial"; font-size: 110%; font-style: italic; font-weight: normal}
+p    {color: black; text-align: left; font-family: "Arial";}
+figcaption {color: black; font-family: "Arial"; font-style: italic;}
+
+.whatever
+img{
+    
+    }
+</style>
+    
